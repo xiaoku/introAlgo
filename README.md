@@ -1,4 +1,4 @@
 introAlgo
 =========
 
-introduction to algorithms
+introduction to algorithms.  - by xiaoku
